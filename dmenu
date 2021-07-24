@@ -1,0 +1,150 @@
+smart Smart Location              Canada - Montreal              Y
+camo  Canada (CA)                 Canada - Montreal              Y
+cato                              Canada - Toronto               Y
+cato2                             Canada - Toronto - 2           Y
+cava                              Canada - Vancouver             
+in    India (IN)                  India (via UK)                 Y
+inmu1                             India - Mumbai - 1             
+inch                              India - Chennai                
+hk1   Hong Kong (HK)              Hong Kong - 1                  Y
+hk2                               Hong Kong - 2                  
+hk4                               Hong Kong - 4                  
+usny  United States (US)          USA - New York                 Y
+uswd                              USA - Washington DC            Y
+usse                              USA - Seattle                  Y
+usnj3                             USA - New Jersey - 3           Y
+usla                              USA - Los Angeles              Y
+usla2                             USA - Los Angeles - 2          Y
+ussf                              USA - San Francisco            
+usch                              USA - Chicago                  
+usda                              USA - Dallas                   
+usmi                              USA - Miami                    
+usla3                             USA - Los Angeles - 3          
+usnj1                             USA - New Jersey - 1           
+usmi2                             USA - Miami - 2                
+usde                              USA - Denver                   
+ussl1                             USA - Salt Lake City           
+usta1                             USA - Tampa - 1                
+usla1                             USA - Los Angeles - 1          
+usny2                             USA - New York - 2             
+usnj2                             USA - New Jersey - 2           
+usho                              USA - Hollywood                
+usda2                             USA - Dallas - 2               
+usat                              USA - Atlanta                  
+usla5                             USA - Los Angeles - 5          
+ussm                              USA - Santa Monica             
+sgju  Singapore (SG)              Singapore - Jurong             
+sgcb                              Singapore - CBD                
+sgmb                              Singapore - Marina Bay         
+jpto  Japan (JP)                  Japan - Tokyo                  
+jpyo                              Japan - Yokohama               
+jpto2                             Japan - Tokyo - 2              
+ukdo  United Kingdom (GB)         UK - Docklands                 Y
+uklo                              UK - London                    Y
+ukel                              UK - East London               
+ukwe                              UK - Wembley                   
+frpa1 France (FR)                 France - Paris - 1             Y
+frst                              France - Strasbourg            
+frpa2                             France - Paris - 2             
+aume  Australia (AU)              Australia - Melbourne          
+ausy                              Australia - Sydney             
+aubr                              Australia - Brisbane           
+ausy2                             Australia - Sydney - 2         
+nlth  Netherlands (NL)            Netherlands - The Hague        Y
+nlam                              Netherlands - Amsterdam        Y
+nlro                              Netherlands - Rotterdam        
+nlam2                             Netherlands - Amsterdam - 2    
+ch2   Switzerland (CH)            Switzerland - 2                Y
+ch                                Switzerland                    
+kr2   South Korea (KR)            South Korea - 2                
+ph    Philippines (PH)            Philippines                    
+my    Malaysia (MY)               Malaysia                       
+lk    Sri Lanka (LK)              Sri Lanka                      
+pk    Pakistan (PK)               Pakistan                       
+kz    Kazakhstan (KZ)             Kazakhstan                     
+th    Thailand (TH)               Thailand                       
+id    Indonesia (ID)              Indonesia                      
+nz    New Zealand (NZ)            New Zealand                    
+tw3   Taiwan (TW)                 Taiwan - 3                     
+vn    Vietnam (VN)                Vietnam                        
+mo    Macau (MO)                  Macau                          
+kh    Cambodia (KH)               Cambodia                       
+mn    Mongolia (MN)               Mongolia                       
+la    Laos (LA)                   Laos                           
+mm    Myanmar (MM)                Myanmar                        
+np    Nepal (NP)                  Nepal                          
+kg    Kyrgyzstan (KG)             Kyrgyzstan                     
+uz    Uzbekistan (UZ)             Uzbekistan                     
+bd    Bangladesh (BD)             Bangladesh                     
+bt    Bhutan (BT)                 Bhutan                         
+bnbr  Brunei Darussalam (BN)      Brunei                         
+mx    Mexico (MX)                 Mexico                         
+br2   Brazil (BR)                 Brazil - 2                     
+br                                Brazil                         
+pa    Panama (PA)                 Panama                         
+cl    Chile (CL)                  Chile                          
+ar    Argentina (AR)              Argentina                      
+bo    Bolivia (BO)                Bolivia                        
+cr    Costa Rica (CR)             Costa Rica                     
+co    Colombia (CO)               Colombia                       
+ve    Venezuela (VE)              Venezuela                      
+ec    Ecuador (EC)                Ecuador                        
+gt    Guatemala (GT)              Guatemala                      
+pe    Peru (PE)                   Peru                           
+uy    Uruguay (UY)                Uruguay                        
+bs    Bahamas (BS)                Bahamas                        
+defr1 Germany (DE)                Germany - Frankfurt - 1        
+denu                              Germany - Nuremberg            
+defr2                             Germany - Frankfurt - 2        
+defr3                             Germany - Frankfurt - 3        
+se    Sweden (SE)                 Sweden                         
+se2                               Sweden - 2                     
+itmi  Italy (IT)                  Italy - Milan                  
+itco                              Italy - Cosenza                
+ro    Romania (RO)                Romania                        
+im    Isle of Man (IM)            Isle of Man                    
+esma  Spain (ES)                  Spain - Madrid                 
+esba                              Spain - Barcelona              
+esba2                             Spain - Barcelona - 2          
+tr    Turkey (TR)                 Turkey                         
+ie    Ireland (IE)                Ireland                        
+is    Iceland (IS)                Iceland                        
+no    Norway (NO)                 Norway                         
+dk    Denmark (DK)                Denmark                        
+be    Belgium (BE)                Belgium                        
+fi    Finland (FI)                Finland                        
+gr    Greece (GR)                 Greece                         
+pt    Portugal (PT)               Portugal                       
+at    Austria (AT)                Austria                        
+am    Armenia (AM)                Armenia                        
+pl    Poland (PL)                 Poland                         
+lt    Lithuania (LT)              Lithuania                      
+lv    Latvia (LV)                 Latvia                         
+ee    Estonia (EE)                Estonia                        
+cz    Czech Republic (CZ)         Czech Republic                 
+ad    Andorra (AD)                Andorra                        
+me    Montenegro (ME)             Montenegro                     
+ba    Bosnia and Herzegovina (BA) Bosnia and Herzegovina         
+lu    Luxembourg (LU)             Luxembourg                     
+hu    Hungary (HU)                Hungary                        
+bg    Bulgaria (BG)               Bulgaria                       
+by    Belarus (BY)                Belarus                        
+ua    Ukraine (UA)                Ukraine                        
+mt    Malta (MT)                  Malta                          
+li    Liechtenstein (LI)          Liechtenstein                  
+cy    Cyprus (CY)                 Cyprus                         
+al    Albania (AL)                Albania                        
+hr    Croatia (HR)                Croatia                        
+si    Slovenia (SI)               Slovenia                       
+sk    Slovakia (SK)               Slovakia                       
+mc    Monaco (MC)                 Monaco                         
+je    Jersey (JE)                 Jersey                         
+mk    North Macedonia (MK)        North Macedonia                
+md    Moldova (MD)                Moldova                        
+rs    Serbia (RS)                 Serbia                         
+ge    Georgia (GE)                Georgia                        
+za    South Africa (ZA)           South Africa                   
+il    Israel (IL)                 Israel                         
+eg    Egypt (EG)                  Egypt                          
+ke    Kenya (KE)                  Kenya                          
+dz    Algeria (DZ)                Algeria                        
