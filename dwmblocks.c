@@ -71,7 +71,7 @@ static pid_t cpid = 0;
 
 
 void sigtimeout(int num) {
-	kill(cpid, 9);
+	kill(-cpid, SIGKILL);
 	close(pipefd[1]);
 	close(pipefd[0]);
 	pipe2(pipefd, O_CLOEXEC);
@@ -97,8 +97,9 @@ pid_t popen3(char *cmd) {
 		close(STDIN_FILENO);
 		close(STDERR_FILENO);
 		dup2(pipefd[1], STDOUT_FILENO);
-		execlp("sh", "sh", "-c", cmd, NULL);
-		_exit(EXIT_SUCCESS);
+		setpgid(0, 0);
+		execl("/bin/sh", "sh", "-c", cmd, NULL);
+		_exit(127);
 	}
 	return pid;
 }
@@ -180,6 +181,7 @@ void getsigcmds(unsigned int signal)
 		if (current->signal == signal)
 			getcmd(current,statusbar[i]);
 	}
+	writestatus();
 }
 
 void setupsignals()
@@ -207,6 +209,9 @@ void setupsignals()
 	sigaddset(&sa.sa_mask, SIGALRM);
 	sa.sa_sigaction = sigtimeout;
 	sigaction(SIGALRM, &sa, NULL);
+
+	sa.sa_sigaction = SIG_IGN;
+	sigaction(SIGCHLD, &sa, NULL);
 }
 
 int getstatus(char *str, char *last)

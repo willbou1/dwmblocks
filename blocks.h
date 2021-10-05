@@ -15,6 +15,7 @@ static const Block blocks[] = {
 	{"🎧 "  ,CMD("bluetooth"),              1,      		4},
 	{"🖥️ ",   CMD("backlight"),            0,      		5},
 	{"⛏️ "  ,CMD("miner"),                   1,      		14},
+	{"⬇️ "  ,CMD("upgrade"),                   60,      		16},
 	{"⌨️ "  ,CMD("keylayout"),               1,      		6},
 	{"📅 ",CMD("date"),	                60,			7},
 	{"📻",  CMD("player"),	                0,			11},
@@ -27,4 +28,4 @@ static char delim[] = "  ";
 static unsigned int delimLen = 2;
 static unsigned int padding = 2;
 
-static double timeout = 0.1;
+static double timeout = 0.08;
